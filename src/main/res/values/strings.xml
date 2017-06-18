@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Budgit!</string>
+    <string name="introductory_message">Hi! This is budgit.</string>
+    <string name="edit_text_hint">your monthly allowance</string>
+
+    <string name="allowance">My monthly \n allowance: </string>
+
+    //strings for the activities/ things calculated for
+    <string name="feeding">Feeding</string>
+    <string name="study_materials">Study materials</string>
+    <string name="clothing">Clothing</string>
+    <string name="transport">Transport</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="savings">Savings</string>
+    <string name="amount_text_field">0.0 </string>
+
+    // strings for the reset and calculate button
+    <string name="budgit_button">Budgit!</string>
+    <string name="reset_button">Reset</string>
+
+    //strings for the percentage allocated to each thing/ activity
+    <string name="feeding_percentage">40%</string>
+    <string name="study_materials_percentage">10%</string>
+    <string name="clothing_percentage">20%</string>
+    <string name="transport_percentage">10%</string>
+    <string name="miscellaneous_percentage">10%</string>
+    <string name="savings_percentage">20%</string>
+</resources>
